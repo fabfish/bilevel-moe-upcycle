@@ -1,0 +1,13 @@
+.DS_Store
+**/__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.log
+nohup.out
+outputs_prototype/
+
+# Editor / agent artifacts
+.cursor/
+.cursorindexingignore
+.specstory/
